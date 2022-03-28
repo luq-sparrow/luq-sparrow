@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @luq-sparrow
-- 👀 I’m interested in  in Cyber Sec, UI/UX, smart solutions, useful software, music and good coffee.
-- ❤️ Angular
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Angular, Flutter or IOT related projects
+- 👋 Hi, I’m @luq-sparrow, but you can call me Lukas.
+- 👀 I’m interested in cyber Seccurity, IoT, smart solutions, useful software, music and good coffee.
+- ❤️ Angular and Google Cloud.
+- 🌱 I’m currently learning Flutter. 
+- 💞️ I’m looking to collaborate on Angular, Flutter or IOT related projects. Open for pro bono.
 - 📫 How to reach me? Check my links on luq-sparrow.github.io
 
 <!---
