@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Flutter. 
 - 💞️ I’m looking to collaborate on Angular, Flutter or IOT related projects. Open for pro bono.
 - 📫 How to reach me? Check my links on luq-sparrow.github.io
+- "When live gives you onions take them and make onionade"
 
 <!---
 luq-sparrow/luq-sparrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
